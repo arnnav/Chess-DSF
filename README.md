@@ -1,4 +1,5 @@
 # Chess-DSF
+CSE - 519
 Data Science project on chess dataset from lichess
 
 
